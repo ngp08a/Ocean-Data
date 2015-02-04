@@ -1,0 +1,3 @@
+# Ocean-Data
+=========================
+This is my feeble attempt at a first Kaggle competition. Nothing like aiming high...
